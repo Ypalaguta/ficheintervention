@@ -1,0 +1,155 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014 Taclib'
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Emmanuel HAGUET <ehaguet@teclib.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI - Plugin Formcreator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-07-30 16:13+0200\n"
+"PO-Revision-Date: 2015-01-23 09:34+0100\n"
+"Last-Translator: Emmanuel Haguet <ehaguet@teclib.com>\n"
+"Language-Team: French (France) (http://www.transifex.com/projects/p/GLPI/"
+"language/fr_FR/)\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "Ticket"
+msgstr "Ticket"
+
+msgid "Leave of RCS"
+msgstr "Départ de RCS"
+
+msgid "No item associated with the ticket"
+msgstr "Pas d'élément associé au ticket"
+
+msgid "never generated"
+msgstr "jamais générée"
+
+msgid "Software doesn't have a model"
+msgstr "Logiciel n'a pas de modèle"
+
+msgid "Task list"
+msgstr "Liste des tâches"
+
+msgid "Technician concerned"
+msgstr "Technicien concerné"
+
+msgid "Date of last generation"
+msgstr "Date de dernière génération"
+
+msgid "Resolved"
+msgstr "Résolu"
+
+msgid "Not resolved"
+msgstr "Non résolu"
+
+msgid "New intervention"
+msgstr "Nouvelle intervention"
+
+msgid "Observations"
+msgstr "Observations"
+
+msgid "To be completed by the customer"
+msgstr "À remplir par le client"
+
+msgid "Monitoring / Pieces to be budgeted"
+msgstr "Suivi / Pièces à coter"
+
+msgid "Hardware installed"
+msgstr "Hardware installé"
+
+msgid "Problem / Reason assistance"
+msgstr "Problème / Motif d'assistance"
+
+msgid "Start time"
+msgstr "Hr déb"
+
+msgid "End time"
+msgstr "Hr fin"
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "Model"
+msgstr "Modèle"
+
+msgid "Customer"
+msgstr "Client"
+
+msgid "Technicians"
+msgstr "Techniciens"
+
+msgid "Driver"
+msgstr "Chauffeur"
+
+msgid "No technician assigned to task"
+msgstr "Pas de technicien assigné à cette tâche"
+
+msgid "Contract number"
+msgstr "N° de Contrat"
+
+msgid "Intervention sheet"
+msgid_plural "Intervention sheets"
+msgstr[0] "Fiche d’intervention"
+msgstr[1] "Fiches d’intervention"
+
+msgid "Generate the intervention sheet"
+msgstr "Générer la fiche d’intervention"
+
+msgid "Part number"
+msgstr "Numéro de pièce"
+
+msgid "Print report"
+msgstr "Rapport d'impression"
+
+msgid "Ph."
+msgstr "Tel."
+
+msgid "GSM:"
+msgstr "Portable:"
+
+msgid "Diagnostic / work done"
+msgstr "Diagnostic / Travail effectué"
+
+msgid "Serial No."
+msgstr "N° de Série"
+
+msgid "Signature / stamp"
+msgstr "Signature / Cachet"
+
+msgid "Department"
+msgstr "Département"
+
+msgid "Room / Office"
+msgstr "Salle / Bureau"
+
+msgid "Other"
+msgstr "Autre"
+
+msgid "Building"
+msgstr "Immeuble"
+
+msgid "Floor"
+msgstr "Étage"
+
+msgid "Customer name"
+msgstr "Nom du client"
+
+msgid "Date of intervention"
+msgstr "Date d'intervention"
+
+msgid "Arrival time"
+msgstr "Heure d'arrivée"
+
+msgid "Time of departure"
+msgstr "Heure de Sortie"
+
+msgid "Equipment ID"
+msgstr "ID de l'équipement"

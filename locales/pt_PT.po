@@ -1,0 +1,155 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014 Taclib'
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Emmanuel HAGUET <ehaguet@teclib.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI - Plugin Formcreator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-07-30 16:13+0200\n"
+"PO-Revision-Date: 2017-01-16 18:12+0200\n"
+"Last-Translator: Emmanuel Haguet <ehaguet@teclib.com>\n"
+"Language-Team: French (France) (http://www.transifex.com/projects/p/GLPI/"
+"language/fr_FR/)\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.7\n"
+
+msgid "Ticket"
+msgstr "Ticket"
+
+msgid "No item associated with the ticket"
+msgstr "Nenhum elemento associado o ticket"
+
+msgid "never generated"
+msgstr "nunca gerou"
+
+msgid "Software doesn't have a model"
+msgstr "Software não tem um modelo"
+
+msgid "Contact"
+msgstr "Pessoa a contactar"
+
+msgid "Technician concerned"
+msgstr "Técnico em causa"
+
+msgid "Date of last generation"
+msgstr "Data de última geração"
+
+msgid "Task list"
+msgstr "Lista de tarefas"
+
+msgid "Resolved"
+msgstr "Resolvido"
+
+msgid "Not resolved"
+msgstr "Não resolvido"
+
+msgid "New intervention"
+msgstr "Nova Intervenção"
+
+msgid "Start time"
+msgstr "Hr.Inicio"
+
+msgid "End time"
+msgstr "Hr.Fim"
+
+msgid "Intervention sheet"
+msgid_plural "Intervention sheets"
+msgstr[0] "Ficha de intervenção"
+msgstr[1] "Fichas de intervenção"
+
+msgid "Generate the intervention sheet"
+msgstr "Generate ficha de intervenção"
+
+msgid "GSM:"
+msgstr "Mov.:"
+
+msgid "No technician assigned to task"
+msgstr "Sem técnico atribuída a tarefa"
+
+msgid "Technicians"
+msgstr "Técnicos"
+
+msgid "Customer"
+msgstr "Cliente"
+
+msgid "Driver"
+msgstr "Motorista"
+
+msgid "Leave of RCS"
+msgstr "Saida RCS"
+
+msgid "Contract number"
+msgstr "Nro. Contrato"
+
+msgid "Model"
+msgstr "Modelo"
+
+msgid "Equipment ID"
+msgstr "ID Equipamento"
+
+msgid "Part number"
+msgstr "P/N"
+
+msgid "Serial No."
+msgstr "No de Serie"
+
+msgid "Print report"
+msgstr "Relatório de impressão"
+
+msgid "Ph."
+msgstr "Tel."
+
+msgid "Hardware installed"
+msgstr "Hardware colocado"
+
+msgid "Diagnostic / work done"
+msgstr "Diagnóstico / Trabalho feito"
+
+msgid "Monitoring / Pieces to be budgeted"
+msgstr "Seguimento / peças a orçamentar"
+
+msgid "Observations"
+msgstr "Observações"
+
+msgid "Signature / stamp"
+msgstr "Assinatura / Carimbo"
+
+msgid "Problem / Reason assistance"
+msgstr "Problema / Motivo assistência"
+
+msgid "To be completed by the customer"
+msgstr "A PREENCHER PELO CLIENTE"
+
+msgid "Department"
+msgstr "Departamento"
+
+msgid "Room / Office"
+msgstr "Sala"
+
+msgid "Other"
+msgstr "Outro"
+
+msgid "Building"
+msgstr "Edificio"
+
+msgid "Floor"
+msgstr "Piso / Andar"
+
+msgid "Customer name"
+msgstr "Nome do Cliente"
+
+msgid "Date of intervention"
+msgstr "Data da intervenção"
+
+msgid "Arrival time"
+msgstr "Hora de chegada"
+
+msgid "Time of departure"
+msgstr "Hora de Saida"

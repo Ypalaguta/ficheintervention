@@ -1,0 +1,152 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014 Taclib'
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Emmanuel HAGUET <ehaguet@teclib.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: GLPI - Plugin Formcreator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-07-30 16:13+0200\n"
+"PO-Revision-Date: 2015-01-13 10:47+0100\n"
+"Last-Translator: Emmanuel Haguet <ehaguet@teclib.com>\n"
+"Language-Team: French (France) (http://www.transifex.com/projects/p/GLPI/"
+"language/fr_FR/)\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "Ticket"
+msgstr "Ticket"
+
+msgid "No item associated with the ticket"
+msgstr "No item associated with the ticket"
+
+msgid "never generated"
+msgstr "never generated"
+
+msgid "Software doesn't have a model"
+msgstr "Software doesn't have a model"
+
+msgid "Date of last generation"
+msgstr "Date of last generation"
+
+msgid "Task list"
+msgstr "Task list"
+
+msgid "Resolved"
+msgstr "Resolved"
+
+msgid "Not resolved"
+msgstr "Not resolved"
+
+msgid "New intervention"
+msgstr "New intervention"
+
+msgid "Start time"
+msgstr "Start time"
+
+msgid "End time"
+msgstr "End time"
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "Intervention sheet"
+msgid_plural "Intervention sheets"
+msgstr[0] "Intervention sheet"
+msgstr[1] "Intervention sheets"
+
+msgid "Generate the intervention sheet"
+msgstr "Generate the intervention sheet"
+
+msgid "No technician assigned to task"
+msgstr "No technician assigned to task"
+
+msgid "Technicians"
+msgstr "Technicians"
+
+msgid "Customer"
+msgstr "Customer"
+
+msgid "Driver"
+msgstr "Driver"
+
+msgid "Leave of RCS"
+msgstr "Leave of RCS"
+
+msgid "Contract number"
+msgstr "Contract number"
+
+msgid "Model"
+msgstr "Model"
+
+msgid "Equipment ID"
+msgstr "Equipment ID"
+
+msgid "Part number"
+msgstr "Part number"
+
+msgid "Serial No."
+msgstr "Serial No."
+
+msgid "Print report"
+msgstr "Print report"
+
+msgid "Ph."
+msgstr "Phone"
+
+msgid "GSM:"
+msgstr "GSM:"
+
+msgid "Hardware installed"
+msgstr "Hardware installed"
+
+msgid "Diagnostic / work done"
+msgstr "Diagnostic / work done"
+
+msgid "Monitoring / Pieces to be budgeted"
+msgstr "Monitoring / Pieces to be budgeted"
+
+msgid "Observation"
+msgstr "Observation"
+
+msgid "Signature / stamp"
+msgstr "Signature / stamp"
+
+msgid "Problem / Reason assistance"
+msgstr "Problem / Reason assistance"
+
+msgid "To be completed by the customer"
+msgstr "To be completed by the customer"
+
+msgid "Department"
+msgstr "Department"
+
+msgid "Room / Office"
+msgstr "Room / Office"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Building"
+msgstr "Building"
+
+msgid "Floor"
+msgstr "Floor"
+
+msgid "Customer name"
+msgstr "Customer name"
+
+msgid "Date of intervention"
+msgstr "Date of intervention"
+
+msgid "Arrival time"
+msgstr "Arrival time"
+
+msgid "Time of departure"
+msgstr "Time of departure"
